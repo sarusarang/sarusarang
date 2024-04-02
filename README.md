@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm SARANG A! 👋
+
+I'm a passionate web developer with expertise in frontend and backend technologies. Welcome to my GitHub profile!
+
+## About Me
+
+- 🎓   DIPLOMA IN COMPUTER HARDWARE
+- 💼 Currently working as a Intern at Luminar Technolab Calicut.
+- 💻 Skilled in HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and more
+
+## My Tech Stack 💻
+
+- Frontend🎨: HTML, CSS, JavaScript, Bootstrap, React Js, Redux, React Bootstrap
+- Backend⚙️: Node.js, Express, MongoDB,Json
+- Tools🛠️: Git, Git Hub, VSCode, Postman,NPM
+
+## My Projects 📂
+
+Feel free to explore more of my projects on my [portfolio website](https://sarusarang.github.io/MY-PORTFOLIO/) or my [GitHub repositories](https://github.com/yourusername).
+
+## Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sarang-a-8046681ba/)
+- Instagram: [Your Instagram Profile](https://www.instagram.com/_saru_sarang_11/)
+- Website: [Your Portfolio Website](https://sarusarang.github.io/MY-PORTFOLIO/)
+
+I'm always open to interesting projects and collaborations. Feel free to reach out!
+
+
