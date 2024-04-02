@@ -33,13 +33,13 @@ I'm a passionate web developer with expertise in frontend and backend technologi
 
 ## My Projects 📂
 
-Feel free to explore more of my projects on my [portfolio website](https://sarusarang.github.io/MY-PORTFOLIO/) or my [GitHub repositories](https://github.com/yourusername).
+Feel free to explore more of my projects on my [portfolio website](https://sarusarang.github.io/MY-PORTFOLIO/) or my [GitHub repositories](https://github.com/sarusarang?tab=repositories).
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sarang-a-8046681ba/)
-- Instagram: [Your Instagram Profile](https://www.instagram.com/_saru_sarang_11/)
-- Website: [Your Portfolio Website](https://sarusarang.github.io/MY-PORTFOLIO/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarang-a-8046681ba/)
+- Instagram: [Instagram Profile](https://www.instagram.com/_saru_sarang_11/)
+- Website: [Portfolio Website](https://sarusarang.github.io/MY-PORTFOLIO/)
 
 I'm always open to interesting projects and collaborations. Feel free to reach out!
 
