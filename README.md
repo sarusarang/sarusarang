@@ -23,13 +23,13 @@ I'm a passionate web developer with expertise in frontend and backend technologi
 
 - 🎓   DIPLOMA IN COMPUTER HARDWARE
 - 💼 Currently working as a Intern at Luminar Technolab Calicut.
-- 💻 Skilled in HTML, CSS, TailWind Css, JavaScript, BootStrap, React, React Bootstrap, Node.js, Express, MongoDB, Json, Json Server, JWT, GIT & GITHUB
+- 💻 Skilled in HTML, CSS, TailWind Css, JavaScript, BootStrap, React, Redux, React Bootstrap, Node.js, Express, MongoDB, Json, Json Server, JWT, GIT & GITHUB
 
 ## My Tech Stack 💻
 
-- Frontend🎨: HTML, CSS, JavaScript, Bootstrap, React Js, Redux, React Bootstrap
+- Frontend🎨: HTML, CSS, TailWind Css, JavaScript, Bootstrap, React Js, Redux, React Bootstrap
 - Backend⚙️: Node.js, Express, MongoDB,Json
-- Tools🛠️: Git, Git Hub, VSCode, Postman,NPM
+- Tools🛠️: Git, Git Hub, VSCode, Postman, NPM, Json Server, JWT
 
 ## My Projects 📂
 
