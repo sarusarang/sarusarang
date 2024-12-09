@@ -47,7 +47,7 @@ Feel free to explore more of my projects on my [portfolio website](https://sarus
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarang-a-8046681ba/)
 - Instagram: [Instagram Profile](https://www.instagram.com/_saru_sarang_11/)
-- Website: [Portfolio Website](https://sarusarang.github.io/MY-PORTFOLIO/)
+- Website: [Portfolio Website](https://new-portfolio-sigma-bay.vercel.app/)
 
 I'm always open to interesting projects and collaborations. Feel free to reach out!
 
