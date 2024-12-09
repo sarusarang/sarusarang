@@ -35,6 +35,10 @@ I'm a passionate web developer with expertise in frontend and backend technologi
 
 Feel free to explore more of my projects on my [portfolio website](https://sarusarang.github.io/MY-PORTFOLIO/) or my [GitHub repositories](https://github.com/sarusarang?tab=repositories).
 
+
+![sarusarang GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarusarang&show_icons=true&theme=radical)
+
+
 ## Let's Connect
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarang-a-8046681ba/)
