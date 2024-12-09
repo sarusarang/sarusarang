@@ -36,7 +36,7 @@ I'm a passionate web developer with expertise in frontend and backend technologi
 Feel free to explore more of my projects on my [portfolio website](https://sarusarang.github.io/MY-PORTFOLIO/) or my [GitHub repositories](https://github.com/sarusarang?tab=repositories).
 
 ## My Status
-![sarusarang GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarusarang&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarusarang&layout=donut)](https://github.com/sarusarang/github-readme-stats)
+![sarusarang GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarusarang&show_icons=true&theme=dark)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarusarang&layout=donut)](https://github.com/sarusarang/github-readme-stats)
 
 
 
