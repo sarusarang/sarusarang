@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm SARANG A! 👋
 
-I'm a passionate web developer with expertise in frontend and backend technologies. Welcome to my GitHub profile!
+I'm a passionate Software developer with expertise in frontend and backend technologies. Welcome to my GitHub profile!
 
 ## About Me
 
