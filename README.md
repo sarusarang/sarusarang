@@ -20,9 +20,10 @@ Feel free to explore my projects on my [portfolio website](https://sarusarang.gi
 
 ## My Status
 
-![sarusarang GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarusarang&show_icons=true&theme=dark)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarusarang&layout=donut)](https://github.com/sarusarang/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarusarang&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarusarang&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarusarang&theme=dark&border_radius=8)  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sarusarang&theme=darkhub)
 
 ## Let's Connect
 
@@ -31,6 +32,7 @@ Feel free to explore my projects on my [portfolio website](https://sarusarang.gi
 - Portfolio: [new-portfolio-sigma-bay.vercel.app](https://new-portfolio-sigma-bay.vercel.app/)
 
 I'm always open to interesting projects and collaborations. Feel free to reach out!
+
 
 
 
